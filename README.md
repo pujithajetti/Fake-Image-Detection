@@ -20,7 +20,7 @@ This project implements a multi-model approach to detect deepfake images using:
 | Custom Model | 95.02% | Custom CNN with 9 layers | ~30 MB |
 
 
-📥 Download Pre-trained Files & Dataset
+## 📥 Download Pre-trained Files & Dataset
 
 Due to large file sizes, the following folders are hosted on Google Drive:
 
