@@ -19,6 +19,28 @@ This project implements a multi-model approach to detect deepfake images using:
 | InceptionV3 | 77.39% | Inception architecture for efficient recognition | ~108 MB |
 | Custom Model | 95.02% | Custom CNN with 9 layers | ~30 MB |
 
+
+📥 Download Pre-trained Files & Dataset
+
+Due to large file sizes, the following folders are hosted on Google Drive:
+
+✅ saved_models/
+✅ Pretrained_Models/
+✅ archive/ (Dataset files)
+
+🔗 Download Link:
+### 🚀 **[👉 CLICK HERE TO DOWNLOAD FILES] (https://drive.google.com/drive/folders/1tYw8nm9cAy-xIFtJdvNb2ZIHsahd-0Oo?usp=sharing)**
+
+How to Use the Downloaded Files
+
+Download all folders from the Drive link.
+
+Place them inside your main project directory.
+
+Ensure the folder structure matches the structure shown below.
+
+Then proceed with running training or prediction scripts.
+
 ## 🚀 Quick Start
 
 ### 1. Setup Environment
